@@ -4,7 +4,7 @@ For this CA, the task was to use Containerization recurring to **Docker**.
 
 In the first part of the Assignment the purpose was replicating the solution used in the Third Class Assignment (Virtualization tutorial), but this time using Docker Containers.
 
-The _Part1_ folder contains the steps regarding the containerization of the Gradle Basic Demo Application in two containers:  
+The _Part1_ folder contains the steps regarding the containerization of the Springboot Application in two containers:  
     - A _Web_ container (with Tomcat to run the Spring application).  
     - A _DB_ container (to execute the H2 server database).
 
